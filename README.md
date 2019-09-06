@@ -1,22 +1,25 @@
 # [Play The Game Online!](link here)
 
-## Liam Upton
-Project Lead • Programer • VFX & UI • Artist
+<p align="center">
+<h2 id="liam-upton">Liam Upton</h2>
+<p>Project Lead • Programer • VFX &amp; UI • Artist</p>
 
-## Anthony Escolastico
-Programer • Git Manager
+<h2 id="anthony-escolastico">Anthony Escolastico</h2>
+<p>Programer • Git Manager</p>
 
-## Cade Christianson
-Programer
+<h2 id="cade-christianson">Cade Christianson</h2>
+<p>Programer</p>
 
-## Daniel Cunningham
-Composer
+<h2 id="daniel-cunningham">Daniel Cunningham</h2>
+<p>Composer</p>
 
-## Emmanuel Olaleye
-Programer • Quality Assurance
+<h2 id="emmanuel-olaleye">Emmanuel Olaleye</h2>
+<p>Programer • Quality Assurance</p>
 
-## Liam Gorman
-Lead Artist • Sound Designer
+<h2 id="liam-gorman">Liam Gorman</h2>
+<p>Lead Artist • Sound Designer</p>
+</p>
+
 
 
 ```markdown
