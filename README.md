@@ -1,4 +1,4 @@
-# ![alt text](Icon.png "Adryft")[Play Adryft Online!](https://liamupton1.github.io/Adryft-Web-Build/)
+# [Play ![alt text](Icon.png "Adryft") Online!](https://liamupton1.github.io/Adryft-Web-Build/)
 
 
 ### Liam Upton
