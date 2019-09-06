@@ -1,29 +1,25 @@
 # [Play The Game Online!](link here)
 
-<p align="center">
-<h2 id="liam-upton">Liam Upton</h2>
-<p>Project Lead • Programer • VFX &amp; UI • Artist</p>
+### Liam Upton
+Project Lead • Programer • VFX & UI • Artist
 
-<h2 id="anthony-escolastico">Anthony Escolastico</h2>
-<p>Programer • Git Manager</p>
+### Anthony Escolastico
+Programer • Git Manager
 
-<h2 id="cade-christianson">Cade Christianson</h2>
-<p>Programer</p>
+### Cade Christianson
+Programer
 
-<h2 id="daniel-cunningham">Daniel Cunningham</h2>
-<p>Composer</p>
+### Daniel Cunningham
+Composer
 
-<h2 id="emmanuel-olaleye">Emmanuel Olaleye</h2>
-<p>Programer • Quality Assurance</p>
+### Emmanuel Olaleye
+Programer • Quality Assurance
 
-<h2 id="liam-gorman">Liam Gorman</h2>
-<p>Lead Artist • Sound Designer</p>
-</p>
+### Liam Gorman
+Lead Artist • Sound Designer
 
-
-
+### Other Credits
 ```markdown
-## Other Credits
 copyc4t - "Metal pipe hit by metal"
 > metal hit_1 through metal_hit_5
 
