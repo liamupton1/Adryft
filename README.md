@@ -27,7 +27,7 @@
 ---
 
 ### Other Credits
-```markdown
+```
 copyc4t - "Metal pipe hit by metal"
 > metal hit_1 through metal_hit_5
 
