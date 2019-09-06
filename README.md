@@ -1,4 +1,4 @@
-# [Play ADRYFT Online!](https://liamupton1.github.io/Adryft-Web-Build/)
+# ![alt text](https://github.com/liamupton1/Adryft/blob/master/Icon.png "Adryft")[Play ADRYFT Online!](https://liamupton1.github.io/Adryft-Web-Build/)
 
 
 ### Liam Upton
