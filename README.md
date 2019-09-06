@@ -1,6 +1,6 @@
 ![alt text](ADRYFT.png "Adryft")
 # [Play Game!](https://liamupton1.github.io/Adryft-Web-Build/)
-`Adryft is an Atmospheric 2D action game where light is key. You fight against horrid creatures, created from the melding of flesh and metal, with the only goal of sending you to your untimely demise. Can you survive alone and adryft in space?`
+<center>Adryft is an Atmospheric 2D action game where light is key. You fight against horrid creatures, created from the melding of flesh and metal, with the only goal of sending you to your untimely demise. Can you survive alone and adryft in space?</center>
 ###### Plays best in Chrome*
 
 
