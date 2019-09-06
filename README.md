@@ -1,26 +1,25 @@
-# Play The Game Online!
-https://liamupton1.github.io/Adryft-Web-Build/
+# [Play The Game Online!](https://liamupton1.github.io/Adryft-Web-Build/)
 
 
-## Liam Upton
+### Liam Upton
 > Project Lead • Programer • VFX & UI • Artist
 
-## Anthony Escolastico
+### Anthony Escolastico
 > Programer • Git Manager
 
-## Cade Christianson
+### Cade Christianson
 > Programer
 
-## Daniel Cunningham
+### Daniel Cunningham
 > Composer
 
-## Emmanuel Olaleye
+### Emmanuel Olaleye
 > Programer • Quality Assurance
 
-## Liam Gorman 
+### Liam Gorman 
 > Lead Artist • Sound Designer
 
-## Other Credits
+### Other Credits
 ```markdown
 copyc4t - "Metal pipe hit by metal"
 > metal hit_1 through metal_hit_5
