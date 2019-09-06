@@ -1,22 +1,25 @@
 # [Play The Game Online!](link here)
 
+<p align="center">
 ## Liam Upton
-### Project Lead • Programer • VFX & UI • Artist
+Project Lead • Programer • VFX & UI • Artist
 
 ## Anthony Escolastico
-### Programer • Git Manager
+Programer • Git Manager
 
 ## Cade Christianson
-### Programer
+Programer
 
 ## Daniel Cunningham
-### Composer
+Composer
 
 ## Emmanuel Olaleye
-### Programer • Quality Assurance
+Programer • Quality Assurance
 
 ## Liam Gorman
-### Lead Artist • Sound Designer
+Lead Artist • Sound Designer
+</p>
+
 
 ```markdown
 ## Other Credits
