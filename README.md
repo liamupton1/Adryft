@@ -1,6 +1,6 @@
 ![alt text](ADRYFT.png "Adryft")
-# [Play Game!](https://liamupton1.github.io/Adryft-Web-Build/)
-*Plays best in Chrome*
+|# [Play Game!](https://liamupton1.github.io/Adryft-Web-Build/)|*Plays best in Chrome*|
+
 
 ---
 
