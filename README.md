@@ -1,6 +1,5 @@
 ![alt text](ADRYFT.png "Adryft")
 # [Play Online!](https://liamupton1.github.io/Adryft-Web-Build/)
-*Powered by Unity*
 
 ---
 
@@ -115,5 +114,3 @@ Most sounds under CC-BY 3.0 have been edited to varying degrees, usually just
 by pitch, but sometimes more extensively (like combining it with other sounds)
 Also, all of the sounds are from freesound.net unless otherwise noted
 ```
-
-|:![alt text](UMBCGameDevClub_TableCloth_updated5.png "UMBC GDC"):|:![alt text](5cb828add20bd.png "Unity"):|
