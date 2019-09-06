@@ -1,7 +1,7 @@
-# [Play The Game Online!](link here)
+# Play The Game Online!
 
-## Liam Upton
-Project Lead • Programer • VFX & UI • Artist
+
+<h2 id="liam-upton">Liam Upton:</h2> Project Lead • Programer • VFX & UI • Artist
 
 ## Anthony Escolastico
 Programer • Git Manager
