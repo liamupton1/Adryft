@@ -1,6 +1,5 @@
 # [Play The Game Online!](link here)
 
-<p align="center">
 ## Liam Upton
 Project Lead • Programer • VFX & UI • Artist
 
@@ -18,7 +17,6 @@ Programer • Quality Assurance
 
 ## Liam Gorman
 Lead Artist • Sound Designer
-</p>
 
 
 ```markdown
