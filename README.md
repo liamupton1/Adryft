@@ -3,7 +3,7 @@
 
 ---
 
-# Team
+# Team:
 ### Liam Upton
 > Project Lead • Programer • VFX & UI • Artist
 
