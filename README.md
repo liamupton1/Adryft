@@ -3,22 +3,22 @@
 
 ## Liam Upton
 Project Lead • Programer • VFX & UI • Artist
----
+***
 ## Anthony Escolastico
 Programer • Git Manager
----
+***
 ## Cade Christianson
 Programer
----
+***
 ## Daniel Cunningham
 Composer
----
+***
 ## Emmanuel Olaleye
 Programer • Quality Assurance
----
+***
 ## Liam Gorman 
 Lead Artist • Sound Designer
----
+***
 ## Other Credits
 ```markdown
 copyc4t - "Metal pipe hit by metal"
