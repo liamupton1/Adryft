@@ -1,5 +1,5 @@
 ![alt text](ADRYFT.png "Adryft")
-# [Play Online!](https://liamupton1.github.io/Adryft-Web-Build/)
+# [Play Game!](https://liamupton1.github.io/Adryft-Web-Build/)
 
 ---
 
