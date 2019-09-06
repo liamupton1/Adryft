@@ -1,6 +1,6 @@
 # [Play The Game Online!](link here)
 
-<h3 id="liam-upton">Liam Upton</h3> 
+## Liam Upton
 Project Lead • Programer • VFX & UI • Artist
 
 ## Anthony Escolastico
