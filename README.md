@@ -1,5 +1,5 @@
-# [Play Adryft Online!](https://liamupton1.github.io/Adryft-Web-Build/)
-![alt text](Icon.png "Adryft")
+# ![alt text](Icon.png "Adryft")[Play Adryft Online!](https://liamupton1.github.io/Adryft-Web-Build/)
+
 
 ### Liam Upton
 > Project Lead • Programer • VFX & UI • Artist
