@@ -1,6 +1,10 @@
 # [Play ![alt text](ADRYFT.png "Adryft") Online!](https://liamupton1.github.io/Adryft-Web-Build/)
 *Powered by Unity*
 
+---
+
+# Team
+
 ### Liam Upton
 > Project Lead • Programer • VFX & UI • Artist
 
